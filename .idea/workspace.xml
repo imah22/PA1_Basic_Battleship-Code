@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6611016f-cef8-4fb9-a21b-91bca124b1fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1YeL847dD5RhPtNPC1Kr3s155mp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager" selected="CMake Application.battleship_tests">
+    <configuration name="battleship_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unittests in test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CSCI_366_Programming_Assignments-PA1_Basic_Battleship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.battleship_tests" />
+      <item itemvalue="Python tests.Unittests in test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6611016f-cef8-4fb9-a21b-91bca124b1fd" name="Default Changelist" comment="" />
+      <created>1583297951017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583297951017</updated>
+      <workItem from="1583297953603" duration="95000" />
+      <workItem from="1583378820080" duration="3659000" />
+      <workItem from="1583563550605" duration="2111000" />
+      <workItem from="1583895200499" duration="734000" />
+      <workItem from="1583896968041" duration="693000" />
+      <workItem from="1583959433481" duration="3371000" />
+      <workItem from="1583970614246" duration="16000" />
+      <workItem from="1583970685392" duration="2019000" />
+      <workItem from="1583984880076" duration="2998000" />
+      <workItem from="1584031824812" duration="2062000" />
+      <workItem from="1584048680679" duration="1069000" />
+      <workItem from="1584068197827" duration="847000" />
+      <workItem from="1584069100034" duration="540000" />
+      <workItem from="1584144497859" duration="3987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="0" key="#Unittests_in_test" timestamp="1583969256349">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="0" key="#Unittests_in_test/0.0.1280.760@0.0.1280.760" timestamp="1583969256349" />
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584069253162">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1584069253162" />
+    <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1583564433315">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1583564433315" />
+    <state x="141" y="22" key="SettingsEditor" timestamp="1584159879899">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="141" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1584159879899" />
+    <state x="335" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1583378840634">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="335" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1583378840634" />
+    <state x="539" y="110" key="ftp.server.browser" timestamp="1584158058275">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="539" y="110" key="ftp.server.browser/0.0.1280.760@0.0.1280.760" timestamp="1584158058275" />
+  </component>
+</project>
