@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSCI_366_Programming_Assignments_PA1_Basic_Battleship">
+				<Option output="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/CSCI_366_Programming_Assignments_PA1_Basic_Battleship" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSCI_366_Programming_Assignments_PA1_Basic_Battleship/fast">
+				<Option output="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/CSCI_366_Programming_Assignments_PA1_Basic_Battleship" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSCI_366_Programming_Assignments_PA1_Basic_Battleship/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Ibrahim/Desktop/Computer\ Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.cpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.hpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.cpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.hpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/client_main.cpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/server_main.cpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/tests.cpp">
+			<Option target="CSCI_366_Programming_Assignments_PA1_Basic_Battleship"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

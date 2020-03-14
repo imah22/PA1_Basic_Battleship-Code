@@ -1,0 +1,3 @@
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/CMakeFiles/CSCI_366_Programming_Assignments_PA1_Basic_Battleship.dir
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/cmake-build-debug/CMakeFiles/edit_cache.dir

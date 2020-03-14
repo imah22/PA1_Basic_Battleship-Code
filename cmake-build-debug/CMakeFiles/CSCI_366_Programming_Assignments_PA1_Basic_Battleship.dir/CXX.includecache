@@ -1,0 +1,116 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Client.hpp
+iostream
+-
+fstream
+-
+cereal/archives/json.hpp
+-
+cereal/types/vector.hpp
+-
+
+../src/Server.hpp
+stdio.h
+-
+memory.h
+-
+iostream
+-
+fstream
+-
+exception
+-
+cstdio
+-
+cereal/archives/json.hpp
+-
+
+../src/common.hpp
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.cpp
+common.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp
+Client.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.hpp
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.hpp
+iostream
+-
+fstream
+-
+cereal/archives/json.hpp
+-
+cereal/types/vector.hpp
+-
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.cpp
+common.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp
+Server.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.hpp
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.hpp
+stdio.h
+-
+memory.h
+-
+iostream
+-
+fstream
+-
+exception
+-
+cstdio
+-
+cereal/archives/json.hpp
+-
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/client_main.cpp
+common.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp
+Client.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Client.hpp
+chrono
+-
+thread
+-
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/server_main.cpp
+common.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/common.hpp
+Server.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/src/Server.hpp
+chrono
+-
+thread
+-
+
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/tests.cpp
+gtest/gtest.h
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/gtest/gtest.h
+gmock/gmock.h
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/gmock/gmock.h
+string
+-
+fstream
+-
+streambuf
+-
+common.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/common.hpp
+Server.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/Server.hpp
+Client.hpp
+/mnt/c/Users/Ibrahim/Desktop/Computer Systems/CSCI_366_Programming_Assignments-PA1_Basic_Battleship/test/Client.hpp
+dtl.hpp
+-
+
